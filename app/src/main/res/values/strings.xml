@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Advanced Minesweeper</string>
+    <string name="inputText">Enter text here</string>
+    <string name="buttonText">OK</string>
+
+    <string name="buttonEasyDifficulty">Easy</string>
+    <string name="buttonNormalDifficulty">Normal</string>
+    <string name="buttonHardDifficulty">Hard</string>
+
+    <string name="gameName">Advanced
+        Minesweeper</string>
+    <string name="best_time_not_set_text">Best time : Not set</string>
+    <string name="STRING_EMPTY_RECORD">- - -</string>
+
+</resources>
